@@ -2,7 +2,6 @@
 // @name        Unround
 // @namespace   Violentmonkey Scripts
 // @match       *://*/*
-// @match       *://*
 // @grant       GM_addStyle
 // @run-at      document-start
 // @version     1.0
