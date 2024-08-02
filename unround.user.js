@@ -13,7 +13,7 @@
   'use strict';
 
   GM_addStyle(`
-    * {
+    *, .avatar-user, .circle {
       border-radius: 0 !important;
     }
   `);
